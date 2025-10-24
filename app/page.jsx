@@ -72,7 +72,7 @@ export default function WeddingInvitation() {
       <CeremonySection />
       {/* <ReceptionSection /> */}
       {/* <TimelineSection /> */}
-      <DressCodeSection />
+      {/*<DressCodeSection /> */}
        <AttendanceConfirmation />
       <GiftsSection />
       {/* <GallerySection /> */}

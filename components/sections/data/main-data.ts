@@ -20,8 +20,8 @@ export const quinceMainData = {
   event: {
     celebrant: "Kendra",
     parents: {
-      father: "Andres Martínez",
-      mother: "Maria de Jesús Sanchez",
+      father: "",
+      mother: "Judith Guzmán Avila",
       message: `Hoy, mi corazón rebosa de gratitud. 
                 Doy gracias a Dios por cada paso de mi vida y a mis padres  
                 por cuidarme y guiarme en este camino.
@@ -31,17 +31,17 @@ export const quinceMainData = {
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
     godparents: {
-      godfather: "Juan Hernández",
-      godmother: "Ma. Asunción Jiménez",
+      godfather: "Antonio López Gallardo",
+      godmother: "Alma Rosa Guzmán Avila",
     },
     date: {
-      full: "Sábado 27 de Diciembre 2025",
-      isoDate: "2025-12-27T13:00:00",
+      full: "Sábado 15 de Noviembre 2025",
+      isoDate: "2025-11-15T20:00:00",
       day: "Sábado",
-      dayNumber: "27",
-      month: "Diciembre",
+      dayNumber: "15",
+      month: "noviembre",
       year: "2025",
-      date: "27 de Diciembre 2025",
+      date: "15 de Noviembre 2025",
       mensaje1: "¡La cuenta regresiva ha comenzado!",
       mensaje2: "TAN SOLO FALTAN",
       backgroundCarrouselImages: [
@@ -55,17 +55,17 @@ export const quinceMainData = {
     },
     //Misa a la 1pm parroquia Santa fe de Guadalupe, la Sauceda Guanajuato.
     ceremony: {
-      time: "13:00 hrs.",
-      venue: "Parroquia Santa Fe de Guadalupe",
-      address: "Santa fe de Guadalupe, la Sauceda Guanajuato.",
+      time: "18:30 hrs.",
+      venue: "Capilla del Señor de la Misericordia",
+      address: "Viveros s/n, Parque ecológico Viverista, Acapulco de Juárez, Gro.",
       type: "Misa de Acción de Gracias",
-      ubiLink: "https://maps.app.goo.gl/WfeVYukpQg3CWC2T8",
+      ubiLink: "https://maps.app.goo.gl/5TXtedoXtwqBUV7P8",
       ceremonyImage: "/images/quince6.jpeg",
     },
     party: {
-      time: "14:00 hrs.",
-      venue: "Salón Texano",
-      address: "Santa fe de Guadalupe, la Sauceda Guanajuato.",
+      time: "20:00 hrs.",
+      venue: "La Casa de Mis Abuelos",
+      address: "Calle laurel núm. 13 manzana 6 col parque ecológico de Viveristas C.P. 39890 en Acapulco Gro.",
       type: "Recepción",
       ubiLink: "https://maps.app.goo.gl/qNFsbPPuwyCSMUim9",
     },
@@ -196,20 +196,11 @@ export const quinceMainData = {
         link: "https://example.com/lluvia-de-sobres",
       },
       {
-        id: "transferencia",
-        name: "Transferencia Bancaria",
-        icon: "🏦",
-        description:
-          "Si prefieres, puedes hacer una transferencia bancaria como regalo.",
-        image: "/images/gifts/bank-transfer.png",
-        link: "https://example.com/transferencia-bancaria",
-      },
-      {
-        id: "mesaRegalos",
-        name: "Mesa de Regalos",
+        id: "regaloSorpresa",
+        name: "Regalo Sorpresa",
         icon: "🎁",
         description:
-          "Hemos creado una mesa de regalos con opciones que nos encantaría recibir.",
+          "Si prefieres dar un regalo físico, una sorpresa especial siempre es bienvenida.",
         image: "/images/gifts/gift-box.png",
         link: "https://example.com/mesa-de-regalos",
       }

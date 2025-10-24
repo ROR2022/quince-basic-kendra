@@ -109,12 +109,14 @@ export default function ParentsSection() {
                     <div className="flex items-center justify-center mb-4">
                       <span className="text-3xl animate-heart-beat mr-2">👨‍👩‍👧</span>
                       <h3 className={parentsVisible ? completeClass : basicClass}>
-                        Mis papás
+                        Mi Mamá
                       </h3>
                       <span className="text-3xl animate-heart-beat ml-2">👨‍👩‍👧</span>
                     </div>
                     <div className="space-y-3">
-                      <div className="flex items-center justify-center space-x-2">
+                      <div 
+                      style={{display:'none'}}
+                      className="flex items-center justify-center space-x-2">
                         <span className="text-lg">👨</span>
                         <p className="text-xl font-medium text-glow">
                           {parents.father}
