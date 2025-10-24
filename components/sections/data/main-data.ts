@@ -23,10 +23,10 @@ export const quinceMainData = {
       father: "",
       mother: "Judith Guzmán Avila",
       message: `Hoy, mi corazón rebosa de gratitud. 
-                Doy gracias a Dios por cada paso de mi vida y a mis padres  
+                Doy gracias a Dios por cada paso de mi vida y a mi Madre 
                 por cuidarme y guiarme en este camino.
-                Hace quince años mis padres agradecieron a Dios por mi vida. 
-                Hoy, yo agradezco a Dios por ellos, por su infinito amor y paciencia.`,
+                Hace quince años mi Madre agradecio a Dios por mi vida. 
+                Hoy, yo agradezco a Dios, por su infinito amor y paciencia.`,
       backgroundImage: "/images/fondoKendra2.png",
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
