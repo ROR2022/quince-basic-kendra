@@ -27,7 +27,7 @@ export const quinceMainData = {
                 por cuidarme y guiarme en este camino.
                 Hace quince años mis padres agradecieron a Dios por mi vida. 
                 Hoy, yo agradezco a Dios por ellos, por su infinito amor y paciencia.`,
-      backgroundImage: "/images/fondoKendra1.jpg",
+      backgroundImage: "/images/fondoKendra2.png",
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
     godparents: {
