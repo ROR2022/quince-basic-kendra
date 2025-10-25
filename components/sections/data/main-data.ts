@@ -67,7 +67,7 @@ export const quinceMainData = {
       venue: "La Casa de Mis Abuelos",
       address: "Calle laurel núm. 13 manzana 6 col parque ecológico de Viveristas C.P. 39890 en Acapulco Gro.",
       type: "Recepción",
-      ubiLink: "https://maps.app.goo.gl/qNFsbPPuwyCSMUim9",
+      ubiLink: "https://maps.app.goo.gl/hFt9iVEnhERvNrk4A",
     },
     dressCode: "Formal - Rosa solo la quinceañera",
     restrictions: "",
